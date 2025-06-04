@@ -1,0 +1,23 @@
+{
+  "welcome": "Welcome to My Portfolio",
+  "home": "Home",
+  "about": "About Me",
+  "projects": "My Projects",
+  "contact": "Contact Me",
+"logo": "My Portfolio",
+  "home_title": "Hi, I'm a MERN Stack Developer",
+  "home_description": "I build full-stack web applications with MongoDB, Express, React, and Node.js.",
+  "contact_me": "Contact Me",
+    "about_title": "About Me",
+  "about_description": "I'm a passionate MERN stack developer with experience in building full-stack web applications. I love writing clean code and solving real-world problems.",
+ "projects_title": "My Projects",
+  "project1_title": "Restaurant",
+"project1_desc": "A MERN app for managing restaurant orders, reservations, and menu items with role-based access.",
+  "project2_title": "Ecommerce",
+"project2_desc": "A complete MERN e-commerce app with product catalog, user authentication, shopping cart, and secure checkout."
+,  "project3_title": "mangement tools",
+"project3_desc": "A powerful MERN-based management tool that enables teams to organize tasks, prioritize work, and track progress efficiently.",
+"address":" Cairo Egypt", 
+
+ "view_code": "Open Project"
+}

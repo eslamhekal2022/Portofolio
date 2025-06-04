@@ -1,0 +1,60 @@
+.home-container {
+  display: flex;
+  flex-direction: column-reverse; /* على الموبايل نخلي الصورة تحت */
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.text-section {
+  text-align: center;
+}
+
+.text-section h1 {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #1a1a1a;
+}
+
+.text-section p {
+  font-size: 1.1rem;
+  color: #555;
+  margin: 1rem 0 2rem;
+  max-width: 600px;
+  line-height: 1.6;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-btn {
+  background-color: #f1c40f;
+  color: #222;
+  padding: 0.75rem 1.5rem;
+  border-radius: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.contact-btn:hover {
+  background-color: #d4ac0d;
+  color: #fff;
+}
+
+.image-section img {
+  width: 100%;
+  max-width: 280px;
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+.social{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 0;
+}
