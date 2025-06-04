@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portofolio/static/css/main.f3411b59.css",
+    "main.js": "/Portofolio/static/js/main.ead332ae.js",
+    "static/media/Restaurant.png": "/Portofolio/static/media/Restaurant.7f918ebe0f4940ac8f10.png",
+    "static/media/Ecommerce.png": "/Portofolio/static/media/Ecommerce.a3c0c079c882fb0a7995.png",
+    "static/media/fa-solid-900.ttf": "/Portofolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/Portofolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/Portofolio/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/Portofolio/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/mangement.png": "/Portofolio/static/media/mangement.694e7b08a9bfc1fc912f.png",
+    "static/media/fa-regular-400.ttf": "/Portofolio/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/Flag_of_the_United_States.png": "/Portofolio/static/media/Flag_of_the_United_States.9a8c18ea78555231278f.png",
+    "static/media/fa-regular-400.woff2": "/Portofolio/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/490105583___n.jpg": "/Portofolio/static/media/490105583_3757508681060109_9042591719264214686_n.96c1abbbf62b7dc1beea.jpg",
+    "static/media/fa-v4compatibility.ttf": "/Portofolio/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Portofolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/Portofolio/index.html",
+    "main.f3411b59.css.map": "/Portofolio/static/css/main.f3411b59.css.map",
+    "main.ead332ae.js.map": "/Portofolio/static/js/main.ead332ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3411b59.css",
+    "static/js/main.ead332ae.js"
+  ]
+}
