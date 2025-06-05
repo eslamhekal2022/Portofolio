@@ -17,7 +17,7 @@ export default function Projects() {
       title: t("project2_title"),
       description: t("project2_desc"),
       img: Ecommerce,
-      link: "https://ecommerce-front-kappa-sepia.vercel.app"
+      link: "https://ecommerce-front-swart.vercel.app"
     },
     {
       title: t("project3_title"),
