@@ -13,7 +13,7 @@ export default function Contact() {
       <div className="contact-info">
         <p><FaPhoneAlt /> +20 106 562 4727</p>
         <p><FaMapMarkerAlt /> {t("address")}</p>
-        <p><FaEnvelope /> youremail@example.com</p>
+        <p><FaEnvelope /> eslamhekal45@example.com</p>
       </div>
      <SocialIcons/>
 
