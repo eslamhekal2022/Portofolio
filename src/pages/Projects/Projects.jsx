@@ -11,13 +11,13 @@ export default function Projects() {
       title: t("project1_title"),
       description: t("project1_desc"),
       img: Restaurant,
-      link: "https://restaurant-front-lovat.vercel.app/"
+      link: "https://restaurant-front-eosin.vercel.app"
     },
     {
       title: t("project2_title"),
       description: t("project2_desc"),
       img: Ecommerce,
-      link: "https://ecommerce-front-swart.vercel.app"
+      link: "https://ecommerce-front-neon-ten.vercel.app"
     },
     {
       title: t("project3_title"),
